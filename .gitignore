@@ -22,3 +22,7 @@ public/uploads/
 # Cache
 .cache/
 dist/
+
+firebase.json
+firebase-adminsdk.json
+*.serviceAccountKey.json
